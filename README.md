@@ -51,6 +51,36 @@ Used PCA to reduce dimensions and plotted clusters in 2D space for interpretabil
 ---
 
 
-📌 Status
+## 📂 Files Included
 
-✅ Completed 
+k-means clustering.ipynb — Jupyter Notebook with complete analysis
+
+electrical_vehicle_spec.csv — dataset
+
+
+---
+
+🚀 How to Run
+
+1. Clone this repository
+
+
+2. Open k-means clustering.ipynb in Jupyter Notebook
+
+
+3. Install required libraries (pip install pandas matplotlib seaborn)
+
+
+4. Run the cells and explore the insights!
+
+
+
+
+---
+
+📌 About
+
+This project is part of my TechNest Intern training to build hands-on experience in data analysis and visualization.
+
+
+---
